@@ -1,0 +1,57 @@
+*Các thẻ cơ bản trong html
+<!DOCTYPE html>
+<html>
+    <!-- phần đầu -->
+    <head>
+        <!-- title name tap  -->
+          <title> F8 - Shop </title>
+            <meta charset = "utf-f8">
+    </head>
+    <!-- phần thân -->
+    <body>
+        <!-- div- bọc khối  -->
+          <div>
+             <!-- tiêu đề thẻ h1,tiêu đề nhỏ hơn h2 -->
+            <h1 title = "Đây là thuộc tính"> attribute? </h1>
+            <p>ok</p>
+            <img src =" https://tse2.mm.bing.net/th?id=OIP.TAQ6J8j2gj9n1dB5Ebf9_QHaE7&pid=Api&P=0"alt = " ">
+            <a href="https://www.facebook.com/profile.php?id=100022046060374&mibextid=LQQJ4d">Đi tới link này </a>
+            <ul>
+             Sau đây là 1 số danh sách:
+              <li>HTML, CSS là gì?</li>
+              <li>Cài đặt môi trường </li>
+              <li>Làm quen với Dev tools</li>
+            </ul>
+            <!-- tạo bảng -->
+            <table>
+               <thead>
+                   <th>STT</th>
+                   <th>tên</th>
+                   <th>địa chỉ</th>
+ 
+               </thead>
+               <tbody>
+                 <tr>
+                    <!-- danh sách 1 -->
+                     <th>1</th>
+                     <th>Huy Tỏa</th>
+                     <th>Bắc Giang</th>
+                 </tr>
+                 <tr>
+                    <!-- danh sách 2 -->
+                     <th>2</th>
+                     <th>Huy Cương</th>
+                     <th>Bắc Giang</th>
+                 </tr>
+                 
+ 
+               </tbody>
+ 
+ 
+            </table>
+ 
+ 
+          </div>
+<!-- div được bọc khối trong thẻ body -->
+    </body>         
+</html>
